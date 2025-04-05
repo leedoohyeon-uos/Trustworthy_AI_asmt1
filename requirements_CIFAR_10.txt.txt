@@ -1,0 +1,12 @@
+# requirements.txt
+# 적대적 공격 구현에 필요한 패키지
+# 작성일: 2025-04-04
+
+tensorflow>=2.9.0
+numpy>=1.22.0
+matplotlib>=3.5.0
+pillow>=9.0.0
+scikit-learn>=1.0.0
+h5py>=3.6.0
+argparse>=1.4.0
+tqdm>=4.62.0
